@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Valdir
+-Profissão:QA
+-Cidade:Igarassu PE
+-O que faz nas horas vaga: Adoro me conectar com a Natureza
+-Feedback sobre o curso Qualidade de Software: Excelente
+-Feedback sobre a plataforma de estudo da EBAC: muito bom
+
+Obrigado!!!
+
+
